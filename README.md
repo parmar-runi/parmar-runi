@@ -1,10 +1,6 @@
 # Hi 👋, I'm Runi Parmar
 
-# <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Your+Name;Full+Stack+Developer;Open+Source+Contributor;Building+Cool+Things+🚀;Always+Learning+New+Tech+💡" />
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2JjNmR2Ym1vYjU3Y3QxcnJ6MnQ3Y3NtbDl2eXh0YjYwZm5jZzVjbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="500"/>
 
 ### 🚀 Full Stack Developer | Problem Solver | Tech Enthusiast
 
